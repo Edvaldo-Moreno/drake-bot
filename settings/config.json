@@ -1,0 +1,37 @@
+{
+  "OwnerNumber": {
+    "description": "Definir o número do dono oficial do bot, ou seja, o superior.",
+    "value": "244940886736<"    
+  },
+  "Prefix": {
+    "description": "Definir um prefixo para o BOT reconhecer como comando. Lembrando, não é afetado os comandos sem prefixos.",
+    "value": "/"
+  },
+  "nameOwner": {
+    "description": "Definir o nome que você deseja ser reconhecido como dono no BOT, será presente em comandos informativos.",
+    "value": "Edvaldo Moreno"
+  },
+  "botName": {
+    "description": "Definir o nome do bot, pode incluir letras modificadas e símbolos.",
+    "value": "Ghost Beryon"
+  },
+  "stickerAuthor": {
+    "description": "Especificar o autor do stickers criados através do bot. Mantenha como padrão (opcional) se desejar.",
+    "value": "{user}"
+  },
+  "stickerPack": {
+    "description": "Especificar o pacote do sticker. Mantenha o padrão para criar sticker com base em informações.",
+    "value": "↧⟬💻â? 𝐅𝐞𝐢𝐭𝐚 𝐏𝐨𝐫 â?"
+  },
+  "NewsletterConfig": {
+    "description": "Coloque o ID do canal do WhatsApp. Caso você não tenha o ID do seu canal, entre em contato com meu dono.",
+    "value": "0029Vb716DxAu3aQQK3WzY2v@newsletter"
+  },
+  "subOwners": {
+    "dono1": "244940886736",
+    "dono2": "244925154044",
+    "dono3": "",
+    "dono4": "",
+    "dono5": ""
+  }
+}
